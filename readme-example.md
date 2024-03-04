@@ -39,6 +39,16 @@ ex) Titanic(오승태폼미쳤팀)
     </a>
     <br />
     </td>
+    <td align="center">
+    <a href="https://github.com/jeongraekyeong">
+      <img src="https://avatars.githubusercontent.com/u/162093449?v=4" width="100px;" alt=""/>
+      <br />
+      <sub>
+        <b>정래경</b>
+      </sub>
+    </a>
+    <br />
+    </td>
   </tr>
 </table>
   
