@@ -22,7 +22,7 @@
 <h2 align="center"><b>📞📫 How to reach us</b></h2>
 
 <p align="center">
-<a href="https://instagram.com/DNA"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>&nbsp 
+<a href="https://www.instagram.com/dna_kgu_app_stat/?hl=ko"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>&nbsp 
 <a href="https://https://cafe.naver.com/kyonggidna"><img src="https://img.shields.io/badge/Naver Cafe-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>&nbsp 
 
 <br/><br/>
