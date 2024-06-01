@@ -16,6 +16,8 @@
 
 <span style="color:orange">DNA</span>는 데이터 분석을 통해 긍정적인 변화를 이끌어내고자 하는 대학생들의 모임입니다.
 
+</br>
+
 </h3>
 
 
