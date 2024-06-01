@@ -6,15 +6,15 @@
 
 <h3 align="center">
   
-<span style="color:blue">DNA</span> \<알아서 적으세요\>가치를 지향하고
+<span style="color:blue">DNA</span>는 데이터와 통계를 통해 세상에 긍정적인 가치를 창출하는 것을 지향하고
   
 </br>
 
-통계학을 기반으로 빅데이터 시대의 ~~~~~ 대학생들이 모여있는 동아리입니다.
+통계학을 기반으로 폭넓은 시각과 다양한 가치관을 공유하는 대학생들이 모여있는 동아리입니다.
 
 </br>
 
-<span style="color:orange">DNA</span>는 ~~~~~~~~~~~~~~~~~~~~~~`
+<span style="color:orange">DNA</span>는 데이터 분석을 통해 긍정적인 변화를 이끌어내고자 하는 대학생들의 모임입니다.
 
 </h3>
 
